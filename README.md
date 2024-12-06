@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I’m Roshini! 🚀<br/>
 
-<!--
-**CAT-ROM/CAT-ROM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curious mind at the crossroads of Data Science (IIT'M) and Biotechnology (GITAM), .merging tech, biology, and data analytics to solve complex problems.
 
-Here are some ideas to get you started:
+What I’m Doing:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧬 Building smart algorithms that decode life’s secrets.<br/>
+📊 Dive deep into data analytics, transforming raw numbers into powerful insights..<br/>
+💡 Innovating at the intersection of AI and biotech, like my Real-Time Pathogen Monitoring Through AI (Sawit AI Challenge).<br/>
+📜 Researcher on ResearchGate, sharing ideas that make an impact.<br/>
+
+When I’m Not Coding:
+
+🎨 Designing visuals that tell stories.<br/>
+🔍 Exploring new ideas and learning across disciplines.<br/>
+
+Let’s collaborate, innovate, and create the future! 🤝
