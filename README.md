@@ -1,4 +1,4 @@
-![Your Banner](https://github.com/CAT-ROM/CAT-ROM/blob/main/World,Meet.gif)
+![Your Banner](https://github.com/CAT-ROM/CAT-ROM/blob/main/Githubbanner.gif)
 
 # 💫 Personal Overview:
 Hey, I’m Roshini! 🚀<br><br>A curious mind at the crossroads of Data Science (IIT'M) and Biotechnology (GITAM), .merging tech, biology, and data analytics to solve complex problems.<br><br>What I’m Doing:<br><br>🧬 Building smart algorithms that decode life’s secrets.<br>📊 Dive deep into data analytics, transforming raw numbers into powerful insights..<br>💡 Innovating at the intersection of AI and biotech, like my Real-Time Pathogen Monitoring Through AI (Sawit AI Challenge).<br>📜 Researcher on ResearchGate, sharing ideas that make an impact.<br><br>When I’m Not Coding:<br><br>🎨 Designing visuals that tell stories.<br>🔍 Exploring new ideas and learning across disciplines.<br><br>Let’s collaborate, innovate, and create the future! 🤝
